@@ -27,48 +27,27 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ```
-dribble.css
+
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Dribbble Style Page</title>
+  
+  <title>Dribbble </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    .body {
-      background-color: orange;
-    }
-    .subtext {
-      color: rgb(240, 8, 8);
-    }
-    .btn-learn {
-      background-color: rgb(8, 81, 239);
-      color: rgb(213, 14, 150);
-    }
-    .btn-signup {
-      background-color: rgb(114, 21, 37);
-      color: rgb(98, 11, 11);
-    }
-    .image-label {
-      font-size: 3px;
-      text-align: center;
-      margin-top: 1px;
-    }
-    .navbar-brand {
-      color: rgb(10, 160, 183) !important;
-      font-weight: bold;
-      font-size: 10px;
-    }
-  </style>
-</head>
-<body>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-dribble.html
 
+ 
+ 
+ 
+ 
+ 
+
+  
   <!-- Dark Theme Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <!-- Dribbble brand on left -->
-      <a class="navbar-brand" href="#">Dribbble</a>
+      <a class="navbar-brand" href="#">Dribbble show now ...</a>
 
       <!-- Navbar items -->
       <div class="collapse navbar-collapse">
@@ -87,8 +66,8 @@ dribble.html
   <div class="text-center my-4">
     <h6 class="fw-bold">What are you working on?</h6>
     <p class="subtext">Dribbble is show and tell for designers.</p>
-    <button class="btn btn-learn me-2">Learn more</button>
-    <button class="btn btn-signup">Sign up</button>
+    <button class="btn btn-dark">Learn more</button>
+    <button class="btn btn-dark">Sign up</button>
   </div>
 
   <img src="s1.jpg"height="200",width="200"style="display:">
@@ -103,6 +82,8 @@ dribble.html
  <img src="s10.jpg"height="200",width="200"style="display: ">
  <img src="s10.jpg"height="200",width="200"style="display: ">
  <img src="s11.jpg"height="200",width="200"style="display: ">
+ ..
+ 
  <img src="s4.jpg"height="200",width="200"style="display: ">
 
 
@@ -111,7 +92,8 @@ dribble.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (45).png>)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
